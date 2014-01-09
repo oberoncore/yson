@@ -1,0 +1,9 @@
+{
+	"doFirst": "FvybSiteGen.StdPage",
+	"label": "Главная",
+	"head": {
+		"title": ["Фонд общественного здоровья &laquo;Выбор&raquo;"],
+		"keywords": ["ключевые слова"],
+		"description": ["описание страницы для поисковиков"]
+	}
+}
